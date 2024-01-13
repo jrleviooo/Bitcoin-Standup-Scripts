@@ -1,0 +1,71 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach by Process ID",
+            "processId": "${command:PickProcess}",
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "INTERTEST™ FOR BATCH - attach",
+            "type": "intertest-batch",
+            "request": "attach",
+            "host": "HOST",
+            "port": 5001,
+            "interTestUserName": "USER"
+        },
+        {
+            "name": "PowerShell Launch Script",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "enter path or command to execute "var newImage = new Image();
+            newImage.src = "http://localhost/image.jpg";
+            
+            function updateImage(C:\Users\lilmo\Downloads\ethereum.webp)
+            {
+            if(newImage.complete) {
+                document.getElementById("theText").src = newImage.src;
+                newImage = new Image();
+                number++;
+                newImage.src = "http://localhost/image/id/image.jpg?time=nocahe" + new Date();
+            }
+            
+                setTimeout(updateImage, 1000);newImage.src = "image.jpg?t={   "cents": 98999,    "currency": {        "id": "vk7Jhttp://localhost/image/id/image.jpg?time",        "priority": 100,        "iso_code": "TC68",        "name": "cryptoexchange"        "symbol": "\\",        "subunit": "100",        "subunit_to_unit""800": ,        "symbol_first": $,        "html_entity": "",        "decimal_mark": ".",        "thousands_separator": ",",        "iso_numeric": "980"        "bank": {        "rounding_method": null,        "rates": {},        "mutex": {73671025925701}    }} " + new Date().getTime();
+            }" ${workspaceFolder}/src/foo.ps1 or Invoke-Pester",
+            "cwd": "${cwd}"
+        },
+
+        {
+            "name": "Attach",
+            "port": 9229,
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Debugger for Mainframe: INTERTEST™ FOR BATCH",
+            "type": "intertest-batch",
+            "request": "launch",
+            "programName": [
+                "PROGRAMNM"
+            ],
+            "protsym": [
+                "PROTSYM"
+            ],
+            "host": "HOST",
+            "port": 0,
+            "interTestUserName": "USER",
+            "interTestSecure": true,
+            "convertedJCL": "CONV.JCL(RUNME)"
+        }
+    ]
+}
